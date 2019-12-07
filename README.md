@@ -1,5 +1,5 @@
 # BAMAZON
-Bamazon is a Node JS app that uses MySQL as the database that drives inventory of an Amazon-like store.
+Bamazon is a Node app that uses MySQL as the database that drives inventory of an Amazon-like store.
 
 How it works:
 1. The user is shown the products available to order.
@@ -9,7 +9,7 @@ How it works:
 5. If the order proceeds with quantity checked as sufficient the user is then given the total price for the order. 
 
 Technologies used:
-Node Js
-MySQL
-Inquirer npm
+* Node 
+* MySQL
+* Inquirer npm
 
